@@ -80,7 +80,6 @@ aside.sidebar {
       background: $main-bg $noise-bg;
       border-bottom: 1px solid $sidebar-border;
       border-right: 1px solid $sidebar-border;
-      content: "\00BB";
       text-indent: -1px;
     }
     .collapse-sidebar & {
@@ -93,7 +92,6 @@ aside.sidebar {
       &:after {
         border-left: 1px solid $sidebar-border;
         text-shadow: #fff 0 1px;
-        content: "\00AB";
         left: 0px; right: 0;
         text-align: center;
         text-indent: 0;

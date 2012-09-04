@@ -117,7 +117,6 @@ article + article {
 }
 
 .separator {
-  content: "\2022 ";
   padding: 0 .4em 0 .2em;
   display: inline-block;
 }
@@ -135,7 +134,7 @@ article + article {
     &.next { position: absolute; right: 0; }
     &:hover { color: $link-color-hover; }
     &[href*=archive] {
-      &:before, &:after { content: '\2014'; padding: 0 .3em; }
+      &:before, &:after { padding: 0 .3em; }
     }
   }
 }

@@ -57,7 +57,6 @@ $header-height: 30px;
         padding: 38px 0;
         margin-top: -38px;
         &:after{
-          content: "\f078";
           color: $color-gray03;
           font: 12px $font-icon;
           padding-left: 10px;
@@ -108,7 +107,6 @@ $header-height: 30px;
           display: block;
           padding: 5px 15px;
           &:after{
-            content: "\f054";
             color: $color-gray02;
             font: 12px $font-icon;
             padding-left: 10px;
@@ -178,11 +176,9 @@ $header-height: 30px;
         color: #666;
         @include border-radius(5px 5px 5px 0);
         &:before{
-          content: "\f077";
         }
       }
       &:before{
-        content: "\f078";
         color: $color-gray04;
         font: 16px $font-icon;
         line-height: 30px;
@@ -223,7 +219,6 @@ $header-height: 30px;
       right: -1px;
       @include border-radius(0 5px 5px 0);
       &:before{
-        content: "\f002";
         color: #f2f2f2;
         font: 20px $font-icon;
         line-height: 30px;
@@ -233,9 +228,6 @@ $header-height: 30px;
       }
       &.on{
         background: $color-gray03;
-        &:before{
-          content: "\f00d";
-        }
       }
     }
     .container{
