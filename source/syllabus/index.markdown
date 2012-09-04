@@ -7,6 +7,8 @@ sharing: true
 footer: true
 ---
 
+This syllabus is also available as a [PDF](/assets/docs/DE271FALL2012Syllabus.pdf) or a [Word](/assets/docs/DE271FALL2012Syllabus.doc) document. However, this online version will always be the most up to date.
+
 Cornish College of the Arts
 Design Department, Fall Semester 2012  
 **Course Code:** DE-271  
@@ -20,7 +22,7 @@ Design Department, Fall Semester 2012
 
 Email: [mkornblum@cornish.edu](mailto:mkornblum@cornish.edu) or [mark.kornblum@gmail.com](mailto:mark.kornblum@gmail.com)  
 Cell: 206.393.8581  
-Twitter/Github: mkornblum  
+Twitter/Github: [mkornblum](http://twitter.com/mkornblum)  
 GChat: mark.kornblum  
 
 ### Course Description
