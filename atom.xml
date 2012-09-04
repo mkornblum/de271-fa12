@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[DE271 Fall 2012]]></title>
+  <link href="http://mkornblum.github.com/de271-fa12/atom.xml" rel="self"/>
+  <link href="http://mkornblum.github.com/de271-fa12/"/>
+  <updated>2012-09-03T23:25:57-07:00</updated>
+  <id>http://mkornblum.github.com/de271-fa12/</id>
+  <author>
+    <name><![CDATA[Mark Kornblum]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Welcome]]></title>
+    <link href="http://mkornblum.github.com/de271-fa12/blog/2012/09/03/welcome/"/>
+    <updated>2012-09-03T22:01:00-07:00</updated>
+    <id>http://mkornblum.github.com/de271-fa12/blog/2012/09/03/welcome</id>
+    <content type="html"><![CDATA[<p>You&#8217;ve reached the course blog for DE271 at Cornish College of the Arts.</p>
+]]></content>
+  </entry>
+  
+</feed>
