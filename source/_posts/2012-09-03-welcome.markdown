@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Welcome"
+date: 2012-09-03 22:01
+sharing: false
+comments: true
+categories: 
+---
+
+You've reached the course blog for DE271 at Cornish College of the Arts. 
