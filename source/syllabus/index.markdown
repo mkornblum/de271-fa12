@@ -18,7 +18,7 @@ Design Department, Fall Semester 2012
 
 **Contact information:**
 
-Email: mkornblum@cornish.edu or mark.kornblum@gmail.com  
+Email: [mkornblum@cornish.edu](mailto:mkornblum@cornish.edu) or [mark.kornblum@gmail.com](mailto:mark.kornblum@gmail.com)  
 Cell: 206.393.8581  
 Twitter/Github: mkornblum  
 GChat: mark.kornblum  
@@ -179,10 +179,10 @@ Please inform yourself of safety procedures for this room, including emergency e
 
 **Free Software:**
 
-- Firefox - Free web browser, great for web development because it's fairly standards compliant, cross-platform, and has tons of useful add-ons.
-- Firebug - Extremely helpful add-on for Firefox. Allows you to easily view a document's structure, see what CSS properties are effecting a given element, try out changes on-the-fly, debug javascript, much more.
-- Komodo Edit - Free code editor. In some respects like a stripped-down Dreamweaver. Has helpful things like autocompleting HTML tag properties.
-- Text Wrangler - Free Mac OSX text editor. Does code highlighting, document navigation, can edit files over FTP, more. Simpler but less capable than Komodo Edit.
+- [Firefox](http://getfirefox.com) - Free web browser, great for web development because it's fairly standards compliant, cross-platform, and has tons of useful add-ons.
+- [Firebug](http://getfirebug.com) - Extremely helpful add-on for Firefox. Allows you to easily view a document's structure, see what CSS properties are effecting a given element, try out changes on-the-fly, debug javascript, much more.
+- [Komodo Edit](http://www.activestate.com/komodo-edit/downloads) - Free code editor. In some respects like a stripped-down Dreamweaver. Has helpful things like autocompleting HTML tag properties.
+- [Text Wrangler](http://www.barebones.com/products/textwrangler/download.html) - Free Mac OSX text editor. Does code highlighting, document navigation, can edit files over FTP, more. Simpler but less capable than Komodo Edit.
 
 ## Weekly Course Schedule
 
