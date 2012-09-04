@@ -3,7 +3,7 @@ layout: page
 title: "Course Syllabus - Fall 2012"
 date: 2012-09-03 18:59
 comments: false
-sharing: true
+sharing: false
 footer: true
 ---
 
