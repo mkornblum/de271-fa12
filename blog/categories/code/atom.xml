@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[DE271 Fall 2012]]></title>
-  <link href="http://mkornblum.github.com/de271-fa12/atom.xml" rel="self"/>
+  <title><![CDATA[Category: code | DE271 Fall 2012]]></title>
+  <link href="http://mkornblum.github.com/de271-fa12/blog/categories/code/atom.xml" rel="self"/>
   <link href="http://mkornblum.github.com/de271-fa12/"/>
   <updated>2012-09-04T18:13:36-07:00</updated>
   <id>http://mkornblum.github.com/de271-fa12/</id>
@@ -18,32 +18,17 @@
     <link href="http://mkornblum.github.com/de271-fa12/blog/2012/09/04/class-1-code-example/"/>
     <updated>2012-09-04T18:00:00-07:00</updated>
     <id>http://mkornblum.github.com/de271-fa12/blog/2012/09/04/class-1-code-example</id>
-    <content type="html"><![CDATA[<p>The &#8220;cake-related&#8221; code example from class today can be <a href="https://github.com/mkornblum/de271-fa12/tree/master/day1">seen on Github</a>, or below. Please let me know if you have any questions.</p>
+    <content type="html"><![CDATA[<p>The "cake-related" code example from class today can be <a href="https://github.com/mkornblum/de271-fa12/tree/master/day1">seen on Github</a>, or below. Please let me know if you have any questions.</p>
 
-<figure class='code'><figcaption><span>index.html </span></figcaption>
+<p><div class='bogus-wrapper'><notextile><figure class='code'><figcaption><span>index.html </span></figcaption>
  <div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
 </pre></td><td class='code'><pre><code class='html'><span class='line'><span class="nt">&lt;a</span> <span class="na">href=</span><span class="s">&quot;file2.html&quot;</span><span class="nt">&gt;</span>I&#39;ve baked a delicious cake...<span class="nt">&lt;/a&gt;</span>
-</span></code></pre></td></tr></table></div></figure>
+</span></code></pre></td></tr></table></div></figure></notextile></div></p>
 
-
-
-
-<figure class='code'><figcaption><span>file2.html </span></figcaption>
+<p><div class='bogus-wrapper'><notextile><figure class='code'><figcaption><span>file2.html </span></figcaption>
  <div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
 </pre></td><td class='code'><pre><code class='html'><span class='line'><span class="nt">&lt;a</span> <span class="na">href=</span><span class="s">&quot;index.html&quot;</span><span class="nt">&gt;</span>The cake is just over there!<span class="nt">&lt;/a&gt;</span>
-</span></code></pre></td></tr></table></div></figure>
-
-
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Welcome]]></title>
-    <link href="http://mkornblum.github.com/de271-fa12/blog/2012/09/03/welcome/"/>
-    <updated>2012-09-03T22:01:00-07:00</updated>
-    <id>http://mkornblum.github.com/de271-fa12/blog/2012/09/03/welcome</id>
-    <content type="html"><![CDATA[<p>You&#8217;ve reached the course blog for DE271 at Cornish College of the Arts.</p>
+</span></code></pre></td></tr></table></div></figure></notextile></div></p>
 ]]></content>
   </entry>
   
