@@ -1,0 +1,14 @@
+---
+layout: post
+title: "HTML Demo 1"
+date: 2012-09-08 22:20
+sharing: false
+comments: false
+categories: code
+---
+
+The video demonstration will be available here shortly. Example code is [available on Github](https://github.com/mkornblum/de271-fa12/tree/master/source/downloads/code/first-html-demo), or you can view it below. Remember that for your homework this week, you should include your text about each of the 4 sites, along with a working link to each site, and a screenshot of each site (use the \<img\> tag). Please let me know if you have any questions.
+
+<!-- more -->
+
+{% include_code lang:html first-html-demo/guitars.html %}
