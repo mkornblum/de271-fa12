@@ -213,7 +213,7 @@ Class Discussion: Successful sites, unsuccessful sites. View on projector and di
 Lecture: "HTML Intro" - tags, structure of document, semantics, etc.
 
 _Homework:_
-1. Transform your text file from last week into a web page. At a minimum, you should use several different header tags (\<h1\>, \<h2\>, etc), a link ("\<a\>" tag) to each of the sites you cite, paragraph (\<p\>) tags, etc. Your page should validate, and your use of tags should make sense semantically. Use the <img> tag to include a screenshot of each page you mention.
+1. Transform your text file from last week into a web page. At a minimum, you should use several different header tags (\<h1\>, \<h2\>, etc), a link ("\<a\>" tag) to each of the sites you cite, paragraph (\<p\>) tags, etc. Your page should validate, and your use of tags should make sense semantically. Use the \<img\> tag to include a screenshot of each page you mention.
 
 When you're done, zip everything into one file (your HTML page plus any image files you used) and submit it to me before the start of class on Tuesday. Make sure to name the zip file in a useful way - the department guidelines are ideal, but at a minimum, include your last name in the filename.
 
