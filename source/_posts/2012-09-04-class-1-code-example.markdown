@@ -7,7 +7,7 @@ comments: false
 categories: code
 ---
 
-The "cake-related" code example from class today can be [seen on Github](https://github.com/mkornblum/de271-fa12/tree/master/examples/day1), or below. Please let me know if you have any questions.
+The "cake-related" code example from class today can be [seen on Github](https://github.com/mkornblum/de271-fa12/tree/master/source/downloads/code/day1), or below. Please let me know if you have any questions.
 
 {% codeblock lang:html index.html %}
 <a href="file2.html">I've baked a delicious cake...</a>
