@@ -4,7 +4,7 @@
   <title><![CDATA[Category: code | DE271 Fall 2012]]></title>
   <link href="http://mkornblum.github.com/de271-fa12/blog/categories/code/atom.xml" rel="self"/>
   <link href="http://mkornblum.github.com/de271-fa12/"/>
-  <updated>2012-09-09T12:29:25-07:00</updated>
+  <updated>2012-09-09T22:33:36-07:00</updated>
   <id>http://mkornblum.github.com/de271-fa12/</id>
   <author>
     <name><![CDATA[Mark Kornblum]]></name>
@@ -20,8 +20,6 @@
     <id>http://mkornblum.github.com/de271-fa12/blog/2012/09/08/html-demo-1</id>
     <content type="html"><![CDATA[<iframe src="http://player.vimeo.com/video/49118114" width="500" height="313" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 
-
-<p>Note: quality on this video is mediocre, but I wanted to get it posted so you guys can get going watching it. I am investigating other options for higher video quality.</p>
 
 <p>Example code is <a href="https://github.com/mkornblum/de271-fa12/tree/master/source/downloads/code/first-html-demo">available on Github</a>, or you can view it below. Remember that for your homework this week, you should include your text about each of the 4 sites, along with a working link to each site, and a screenshot of each site (use the &lt;img> tag). Please let me know if you have any questions.</p>
 
