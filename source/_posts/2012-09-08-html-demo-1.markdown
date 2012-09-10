@@ -9,8 +9,6 @@ categories: code
 
 <iframe src="http://player.vimeo.com/video/49118114" width="500" height="313" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 
-Note: quality on this video is mediocre, but I wanted to get it posted so you guys can get going watching it. I am investigating other options for higher video quality.
-
 Example code is [available on Github](https://github.com/mkornblum/de271-fa12/tree/master/source/downloads/code/first-html-demo), or you can view it below. Remember that for your homework this week, you should include your text about each of the 4 sites, along with a working link to each site, and a screenshot of each site (use the \<img\> tag). Please let me know if you have any questions.
 
 <!-- more -->
