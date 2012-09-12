@@ -1,0 +1,24 @@
+body {
+  background-color: rgb(0, 0, 0);
+  color: #ffffff;
+  font-family: Helvetica, Verdana, sans-serif;
+}
+
+p {
+  width: 480px;
+  margin-left: 20px;
+}
+
+h1, h2 {
+  font-family: Georgia, serif;
+}
+
+#stratocaster {
+  border: 2px solid #ff0000;
+  text-transform: lowercase;
+}
+
+.callout {
+  font-size: 24px;
+  font-style: italic;
+}
