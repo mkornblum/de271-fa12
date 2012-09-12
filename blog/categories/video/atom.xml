@@ -4,7 +4,7 @@
   <title><![CDATA[Category: video | DE271 Fall 2012]]></title>
   <link href="http://mkornblum.github.com/de271-fa12/blog/categories/video/atom.xml" rel="self"/>
   <link href="http://mkornblum.github.com/de271-fa12/"/>
-  <updated>2012-09-11T18:56:56-07:00</updated>
+  <updated>2012-09-12T00:47:09-07:00</updated>
   <id>http://mkornblum.github.com/de271-fa12/</id>
   <author>
     <name><![CDATA[Mark Kornblum]]></name>
@@ -18,7 +18,10 @@
     <link href="http://mkornblum.github.com/de271-fa12/blog/2012/09/11/first-css-demo/"/>
     <updated>2012-09-11T18:40:00-07:00</updated>
     <id>http://mkornblum.github.com/de271-fa12/blog/2012/09/11/first-css-demo</id>
-    <content type="html"><![CDATA[<p>Example code from class today is after the break, or <a href="https://github.com/mkornblum/de271-fa12/tree/master/source/downloads/code/first-css-demo">on Github</a>. Video from class will be up once I can get it transcoded and uploaded, probably Wednesday morning.</p>
+    <content type="html"><![CDATA[<iframe src="http://player.vimeo.com/video/49288451" width="600" height="338" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+
+
+<p>Example code from class today is after the break, or <a href="https://github.com/mkornblum/de271-fa12/tree/master/source/downloads/code/first-css-demo">on Github</a>.</p>
 
 <!-- more -->
 
