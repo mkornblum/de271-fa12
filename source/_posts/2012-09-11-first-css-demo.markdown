@@ -7,7 +7,9 @@ comments: false
 categories: code video
 ---
 
-Example code from class today is after the break, or [on Github](https://github.com/mkornblum/de271-fa12/tree/master/source/downloads/code/first-css-demo). Video from class will be up once I can get it transcoded and uploaded, probably Wednesday morning.
+<iframe src="http://player.vimeo.com/video/49288451" width="600" height="338" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+
+Example code from class today is after the break, or [on Github](https://github.com/mkornblum/de271-fa12/tree/master/source/downloads/code/first-css-demo).
 
 <!-- more -->
 
