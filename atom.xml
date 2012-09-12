@@ -4,7 +4,7 @@
   <title><![CDATA[DE271 Fall 2012]]></title>
   <link href="http://mkornblum.github.com/de271-fa12/atom.xml" rel="self"/>
   <link href="http://mkornblum.github.com/de271-fa12/"/>
-  <updated>2012-09-09T22:33:36-07:00</updated>
+  <updated>2012-09-11T18:56:56-07:00</updated>
   <id>http://mkornblum.github.com/de271-fa12/</id>
   <author>
     <name><![CDATA[Mark Kornblum]]></name>
@@ -12,6 +12,250 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[CSS Worksheet Homework]]></title>
+    <link href="http://mkornblum.github.com/de271-fa12/blog/2012/09/11/css-worksheet-homework/"/>
+    <updated>2012-09-11T18:50:00-07:00</updated>
+    <id>http://mkornblum.github.com/de271-fa12/blog/2012/09/11/css-worksheet-homework</id>
+    <content type="html"><![CDATA[<p>Your homework due next Tuesday (9/18) is the following worksheet. Download it to your computer (control-click the &#8220;download&#8221; link in the top right and click &#8220;Save As&#8230;&#8221;), get a CSS file set up, and do what it says in the file. Thursday will be a studio period where we can all work on this together.</p>
+
+<!-- more -->
+
+
+
+
+<figure class='code'><figcaption><span> (selectors_challenge.html)</span> <a href='http://mkornblum.github.com/de271-fa12/downloads/code/css-worksheet-1/selectors_challenge.html'>download</a></figcaption>
+ <div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+<span class='line-number'>8</span>
+<span class='line-number'>9</span>
+<span class='line-number'>10</span>
+<span class='line-number'>11</span>
+<span class='line-number'>12</span>
+<span class='line-number'>13</span>
+<span class='line-number'>14</span>
+<span class='line-number'>15</span>
+<span class='line-number'>16</span>
+<span class='line-number'>17</span>
+<span class='line-number'>18</span>
+<span class='line-number'>19</span>
+<span class='line-number'>20</span>
+<span class='line-number'>21</span>
+<span class='line-number'>22</span>
+<span class='line-number'>23</span>
+<span class='line-number'>24</span>
+<span class='line-number'>25</span>
+<span class='line-number'>26</span>
+<span class='line-number'>27</span>
+<span class='line-number'>28</span>
+<span class='line-number'>29</span>
+<span class='line-number'>30</span>
+<span class='line-number'>31</span>
+<span class='line-number'>32</span>
+<span class='line-number'>33</span>
+<span class='line-number'>34</span>
+<span class='line-number'>35</span>
+<span class='line-number'>36</span>
+<span class='line-number'>37</span>
+<span class='line-number'>38</span>
+<span class='line-number'>39</span>
+<span class='line-number'>40</span>
+<span class='line-number'>41</span>
+<span class='line-number'>42</span>
+<span class='line-number'>43</span>
+<span class='line-number'>44</span>
+<span class='line-number'>45</span>
+<span class='line-number'>46</span>
+</pre></td><td class='code'><pre><code class='html'><span class='line'><span class="cp">&lt;!DOCTYPE html&gt;</span>
+</span><span class='line'><span class="nt">&lt;html</span> <span class="na">lang=</span><span class="s">&quot;en&quot;</span><span class="nt">&gt;</span>
+</span><span class='line'>  <span class="nt">&lt;head&gt;</span>
+</span><span class='line'>    <span class="nt">&lt;meta</span> <span class="na">charset=</span><span class="s">&quot;utf-8&quot;</span> <span class="nt">/&gt;</span>
+</span><span class='line'>    <span class="nt">&lt;title&gt;</span>Selectors challenge<span class="nt">&lt;/title&gt;</span>
+</span><span class='line'>    <span class="nt">&lt;link</span> <span class="na">href=</span><span class="s">&quot;style.css&quot;</span> <span class="na">media=</span><span class="s">&quot;screen&quot;</span> <span class="na">rel=</span><span class="s">&quot;stylesheet&quot;</span> <span class="na">type=</span><span class="s">&quot;text/css&quot;</span><span class="nt">&gt;</span>
+</span><span class='line'>  <span class="nt">&lt;/head&gt;</span>
+</span><span class='line'>  <span class="nt">&lt;body&gt;</span>
+</span><span class='line'>
+</span><span class='line'>    <span class="nt">&lt;h1&gt;</span>Selectors challenge<span class="nt">&lt;/h1&gt;</span>
+</span><span class='line'>
+</span><span class='line'>    <span class="nt">&lt;p&gt;</span>In this exercise you will start off with some ready-made HTML, and write some CSS to solve the problems set out in the following questions. You can find the ready-made HTML in the file <span class="nt">&lt;code&gt;</span>selectors_challenge.html<span class="nt">&lt;/code&gt;</span>. Download a copy of this file to your computer and turn it in along with a CSS file of your creation.
+</span><span class='line'>
+</span><span class='line'>      <span class="nt">&lt;div</span> <span class="na">id=</span><span class="s">&quot;mandatory&quot;</span><span class="nt">&gt;</span>
+</span><span class='line'>
+</span><span class='line'>        <span class="nt">&lt;h2&gt;&lt;a&gt;</span>Mandatory tasks<span class="nt">&lt;/a&gt;&lt;/h2&gt;</span>
+</span><span class='line'>
+</span><span class='line'>        <span class="nt">&lt;p&gt;</span>The basic, mandatory tasks are as follows. These are simple exercises designed to test your knowledge of CSS selectors. Each one of these should take you only a minute or so to apply, once you have got your style sheet set up. If you get stuck, refer back to Chapter 11 of the book.<span class="nt">&lt;/p&gt;</span>
+</span><span class='line'>
+</span><span class='line'>        <span class="nt">&lt;ol&gt;</span>
+</span><span class='line'>          <span class="nt">&lt;li&gt;</span>Write a rule that will apply the <span class="nt">&lt;a</span> <span class="na">href=</span><span class="s">&quot;http://en.wikipedia.org/wiki/Georgia_(typeface)&quot;</span> <span class="na">title=</span><span class="s">&quot;link to more information about the Georgia typeface&quot;</span><span class="nt">&gt;</span>Georgia<span class="nt">&lt;/a&gt;</span> font to every element on the Web page. Apply this rule to the HTML using whatever method you think is best.<span class="nt">&lt;/li&gt;</span>
+</span><span class='line'>          <span class="nt">&lt;li&gt;</span>Give the <span class="nt">&lt;code&gt;</span><span class="ni">&amp;lt;</span>div<span class="ni">&amp;gt;</span><span class="nt">&lt;/code&gt;</span> elements a light-colored background (your choice), and apply 10 pixels of padding between the content inside the divs and their edges.<span class="nt">&lt;/li&gt;</span>
+</span><span class='line'>          <span class="nt">&lt;li&gt;</span>Make whole page&#39;s content 500 pixels in width.<span class="nt">&lt;/li&gt;</span>
+</span><span class='line'>          <span class="nt">&lt;li&gt;</span>Apply a dark-colored border (your choice of color and style) to the <span class="nt">&lt;code&gt;</span><span class="ni">&amp;lt;</span>div<span class="ni">&amp;gt;</span><span class="nt">&lt;/code&gt;</span> elements.<span class="nt">&lt;/li&gt;</span>
+</span><span class='line'>          <span class="nt">&lt;li&gt;</span>Override the previous font setting just for the headings—make every heading use the <span class="nt">&lt;a</span> <span class="na">href=</span><span class="s">&quot;http://en.wikipedia.org/wiki/Helvetica&quot;</span><span class="nt">&gt;</span>Helvetica<span class="nt">&lt;/a&gt;</span> font (or another <span class="nt">&lt;a</span> <span class="na">href=</span><span class="s">&quot;http://en.wikipedia.org/wiki/Sans-serif&quot;</span> <span class="na">title=</span><span class="s">&quot;Definition of the term sans-serif&quot;</span><span class="nt">&gt;</span>sans-serif<span class="nt">&lt;/a&gt;</span> font of your choice).<span class="nt">&lt;/li&gt;</span>
+</span><span class='line'>        <span class="nt">&lt;/ol&gt;</span>
+</span><span class='line'>
+</span><span class='line'>      <span class="nt">&lt;/div&gt;</span>
+</span><span class='line'>
+</span><span class='line'>      <span class="nt">&lt;div</span> <span class="na">id=</span><span class="s">&quot;advanced&quot;</span><span class="nt">&gt;</span>
+</span><span class='line'>
+</span><span class='line'>        <span class="nt">&lt;h2&gt;</span>Advanced optional tasks<span class="nt">&lt;/h2&gt;</span>
+</span><span class='line'>
+</span><span class='line'>        <span class="nt">&lt;p&gt;</span>The more advanced, optional tasks are as follows. These are more complicated tasks that will give you more of a challenge. Some of them will require a bit more research and implementation time than the basic tasks, but the information you require will still be available through the book or online.<span class="nt">&lt;/p&gt;</span>
+</span><span class='line'>
+</span><span class='line'>        <span class="nt">&lt;ol&gt;</span>
+</span><span class='line'>          <span class="nt">&lt;li&gt;</span>Apply a <span class="nt">&lt;a</span> <span class="na">href=</span><span class="s">&quot;http://www.webopedia.com/TERM/D/drop_cap.html&quot;</span> <span class="na">title=</span><span class="s">&quot;Definition of drop cap&quot;</span><span class="nt">&gt;</span>drop-cap<span class="nt">&lt;/a&gt;</span> (increased-size first letter) to paragraphs that come directly after <span class="nt">&lt;code&gt;</span><span class="ni">&amp;lt;</span>h2<span class="ni">&amp;gt;</span><span class="nt">&lt;/code&gt;</span> elements, but no others.<span class="nt">&lt;/li&gt;</span>
+</span><span class='line'>          <span class="nt">&lt;li&gt;</span>Apply pseudo-classes to the links so that they are a different color to the rest of the text, and when you mouse over them, the underline disappears.<span class="nt">&lt;/li&gt;</span>
+</span><span class='line'>          <span class="nt">&lt;li&gt;</span>Use CSS3 selectors to give the <span class="nt">&lt;code&gt;</span><span class="ni">&amp;lt;</span>div<span class="ni">&amp;gt;</span><span class="nt">&lt;/code&gt;</span> elements rounded corners and a subtle <span class="nt">&lt;a</span> <span class="na">href=</span><span class="s">&quot;http://en.wikipedia.org/wiki/Drop_shadow&quot;</span><span class="nt">&gt;</span>drop shadow<span class="nt">&lt;/a&gt;</span>. The relevant properties may not work in older browsers.<span class="nt">&lt;/li&gt;</span>
+</span><span class='line'>        <span class="nt">&lt;/ol&gt;</span>
+</span><span class='line'>
+</span><span class='line'>      <span class="nt">&lt;/div&gt;</span>
+</span><span class='line'>
+</span><span class='line'>
+</span><span class='line'>  <span class="nt">&lt;/body&gt;</span>
+</span><span class='line'><span class="nt">&lt;/html&gt;</span>
+</span></code></pre></td></tr></table></div></figure>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[First CSS Demo]]></title>
+    <link href="http://mkornblum.github.com/de271-fa12/blog/2012/09/11/first-css-demo/"/>
+    <updated>2012-09-11T18:40:00-07:00</updated>
+    <id>http://mkornblum.github.com/de271-fa12/blog/2012/09/11/first-css-demo</id>
+    <content type="html"><![CDATA[<p>Example code from class today is after the break, or <a href="https://github.com/mkornblum/de271-fa12/tree/master/source/downloads/code/first-css-demo">on Github</a>. Video from class will be up once I can get it transcoded and uploaded, probably Wednesday morning.</p>
+
+<!-- more -->
+
+
+
+
+<figure class='code'><figcaption><span> (guitars.html)</span> <a href='http://mkornblum.github.com/de271-fa12/downloads/code/first-css-demo/guitars.html'>download</a></figcaption>
+ <div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+<span class='line-number'>8</span>
+<span class='line-number'>9</span>
+<span class='line-number'>10</span>
+<span class='line-number'>11</span>
+<span class='line-number'>12</span>
+<span class='line-number'>13</span>
+<span class='line-number'>14</span>
+<span class='line-number'>15</span>
+<span class='line-number'>16</span>
+<span class='line-number'>17</span>
+<span class='line-number'>18</span>
+<span class='line-number'>19</span>
+<span class='line-number'>20</span>
+<span class='line-number'>21</span>
+<span class='line-number'>22</span>
+<span class='line-number'>23</span>
+<span class='line-number'>24</span>
+<span class='line-number'>25</span>
+<span class='line-number'>26</span>
+<span class='line-number'>27</span>
+<span class='line-number'>28</span>
+<span class='line-number'>29</span>
+<span class='line-number'>30</span>
+</pre></td><td class='code'><pre><code class='html'><span class='line'><span class="cp">&lt;!DOCTYPE html&gt;</span>
+</span><span class='line'><span class="nt">&lt;html&gt;</span>
+</span><span class='line'>  <span class="nt">&lt;head&gt;</span>
+</span><span class='line'>    <span class="nt">&lt;title&gt;</span>Three Electric Guitars<span class="nt">&lt;/title&gt;</span>
+</span><span class='line'>    <span class="nt">&lt;link</span> <span class="na">href=</span><span class="s">&quot;style.css&quot;</span> <span class="na">media=</span><span class="s">&quot;screen, projection&quot;</span> <span class="na">rel=</span><span class="s">&quot;stylesheet&quot;</span> <span class="na">type=</span><span class="s">&quot;text/css&quot;</span><span class="nt">&gt;</span>
+</span><span class='line'>  <span class="nt">&lt;/head&gt;</span>
+</span><span class='line'>  <span class="nt">&lt;body&gt;</span>
+</span><span class='line'>    <span class="nt">&lt;h1&gt;</span>Electric Guitars<span class="nt">&lt;/h1&gt;</span>
+</span><span class='line'>
+</span><span class='line'>    <span class="nt">&lt;div</span> <span class="na">id=</span><span class="s">&quot;stratocaster&quot;</span><span class="nt">&gt;</span>
+</span><span class='line'>      <span class="nt">&lt;h2&gt;&lt;a</span> <span class="na">href=</span><span class="s">&quot;http://www.fender.com/products/search.php?section=guitars&amp;bodyShape=Stratocaster%C2%AE&quot;</span><span class="nt">&gt;</span>Fender Stratocaster<span class="nt">&lt;/a&gt;&lt;/h2&gt;</span>
+</span><span class='line'>      <span class="nt">&lt;img</span> <span class="na">src=</span><span class="s">&quot;images/stratocaster.jpg&quot;</span><span class="nt">&gt;</span>
+</span><span class='line'>      <span class="nt">&lt;p</span> <span class="na">class=</span><span class="s">&quot;callout&quot;</span><span class="nt">&gt;&lt;a</span> <span class="na">href=</span><span class="s">&quot;http://www.fender.com/products/search.php?section=guitars&amp;bodyShape=Stratocaster%C2%AE&quot;</span><span class="nt">&gt;</span>The Fender Stratocaster<span class="nt">&lt;/a&gt;</span> is an electric guitar. Designed by Leo Fender, George Fullerton, and Freddie Tavares in 1954, it has been manufactured continuously by the Fender Musical Instruments Corporation to the present. It is a double-cutaway guitar, with an extended top horn for balance. Along with the Gibson Les Paul, it is one of the most popularly copied electric guitar shapes.&quot;Stratocaster&quot; and &quot;Strat&quot; are trademark terms belonging to Fender.<span class="nt">&lt;/p&gt;</span>
+</span><span class='line'>
+</span><span class='line'>      <span class="nt">&lt;p&gt;</span>Originally the Stratocaster was offered in a 2-color sunburst finish on a solid, deeply contoured ash body, a 21-fret one-piece maple neck with black dot inlays and Kluson tuning heads. In 1956 Fender began issuing solid Stratocasters with alder bodies. In 1960 the available custom colors were standardized, many of which were automobile lacquer colors from Dupont available at an additional 5% cost. The unique single-ply, 8-screw hole white pickguard allowed all electronic components-except the recessed jack plate-to be attached to it for easy assembly. Despite subsequent Stratocaster models (including copies) vintage Fender models are highly valued by collectors for their investment potential and players who prefer the timbre of older models.<span class="nt">&lt;/p&gt;</span>
+</span><span class='line'>    <span class="nt">&lt;/div&gt;</span>
+</span><span class='line'>
+</span><span class='line'>    <span class="nt">&lt;h2&gt;</span>Fender Telecaster<span class="nt">&lt;/h2&gt;</span>
+</span><span class='line'>
+</span><span class='line'>    <span class="nt">&lt;p</span> <span class="na">class=</span><span class="s">&quot;callout&quot;</span><span class="nt">&gt;</span>The Fender Telecaster, colloquially known as the Tele, is typically a dual-pickup, solid-body electric guitar made by Fender.<span class="nt">&lt;/p&gt;</span>
+</span><span class='line'>
+</span><span class='line'>    <span class="nt">&lt;p&gt;</span>Its simple yet effective design and revolutionary sound broke ground and set trends in electric guitar manufacturing and popular music. Introduced for national distribution as the Broadcaster in the autumn of 1950, it was the first guitar of its kind produced on a substantial scale. Its commercial production can be traced as far back as March 1950, when the single- and dual-pickup Esquire models were first sold. The Telecaster has been in continuous production in one form or another since its first incarnation. The Fender Telecaster has been mostly used in music genres such as country and rock, but is also sometimes used in jazz.<span class="nt">&lt;/p&gt;</span>
+</span><span class='line'>
+</span><span class='line'>    <span class="nt">&lt;h2&gt;</span>Gibson Les Paul<span class="nt">&lt;/h2&gt;</span>
+</span><span class='line'>
+</span><span class='line'>    <span class="nt">&lt;p</span> <span class="na">class=</span><span class="s">&quot;callout&quot;</span><span class="nt">&gt;</span>The Gibson Les Paul is a solid body electric guitar that was first sold in 1952. The Les Paul was designed by Ted McCarty in collaboration with popular guitarist Les Paul, whom Gibson enlisted to endorse the new model. It is one of the most well-known electric guitar types in the world, along with the Fender Stratocaster and Telecaster.<span class="nt">&lt;/p&gt;</span>
+</span><span class='line'>
+</span><span class='line'>    <span class="nt">&lt;p&gt;</span>The Gibson Les Paul was the result of a design collaboration between Gibson Guitar Corporation and the late jazz guitarist and electronics inventor Les Paul. In 1950, with the introduction of the Fender Telecaster to the musical market, electric guitars became a public craze. In reaction, Gibson Guitar president Ted McCarty brought guitarist Les Paul into the company as a consultant. Les Paul was a respected innovator who had been experimenting with guitar design for years to benefit his own music. In fact, he had hand-built a solid-body prototype called &quot;The Log&quot;, a design widely considered the first solid-body Spanish guitar ever built, as opposed to the &quot;Hawaiian&quot;, or lap-steel guitar. This guitar is known as &quot;The Log&quot; because the solid core is a pine block whose width and depth are a little more than the width of the fretboard. Although numerous other prototypes and limited-production solid-body models by other makers have since surfaced, it is known that in 1945-1946, Les Paul had approached Gibson with &quot;The Log&quot; prototype, but his solid body design was rejected.<span class="nt">&lt;/p&gt;</span>
+</span><span class='line'>  <span class="nt">&lt;/body&gt;</span>
+</span><span class='line'><span class="nt">&lt;/html&gt;</span>
+</span></code></pre></td></tr></table></div></figure>
+
+
+
+
+<figure class='code'><figcaption><span> (style.css)</span> <a href='http://mkornblum.github.com/de271-fa12/downloads/code/first-css-demo/style.css'>download</a></figcaption>
+ <div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+<span class='line-number'>8</span>
+<span class='line-number'>9</span>
+<span class='line-number'>10</span>
+<span class='line-number'>11</span>
+<span class='line-number'>12</span>
+<span class='line-number'>13</span>
+<span class='line-number'>14</span>
+<span class='line-number'>15</span>
+<span class='line-number'>16</span>
+<span class='line-number'>17</span>
+<span class='line-number'>18</span>
+<span class='line-number'>19</span>
+<span class='line-number'>20</span>
+<span class='line-number'>21</span>
+<span class='line-number'>22</span>
+<span class='line-number'>23</span>
+<span class='line-number'>24</span>
+</pre></td><td class='code'><pre><code class='css'><span class='line'><span class="nt">body</span> <span class="p">{</span>
+</span><span class='line'>  <span class="k">background-color</span><span class="o">:</span> <span class="k">rgb</span><span class="p">(</span><span class="m">0</span><span class="o">,</span> <span class="m">0</span><span class="o">,</span> <span class="m">0</span><span class="p">);</span>
+</span><span class='line'>  <span class="k">color</span><span class="o">:</span> <span class="m">#ffffff</span><span class="p">;</span>
+</span><span class='line'>  <span class="k">font-family</span><span class="o">:</span> <span class="n">Helvetica</span><span class="o">,</span> <span class="n">Verdana</span><span class="o">,</span> <span class="k">sans-serif</span><span class="p">;</span>
+</span><span class='line'><span class="p">}</span>
+</span><span class='line'>
+</span><span class='line'><span class="nt">p</span> <span class="p">{</span>
+</span><span class='line'>  <span class="k">width</span><span class="o">:</span> <span class="m">480px</span><span class="p">;</span>
+</span><span class='line'>  <span class="k">margin-left</span><span class="o">:</span> <span class="m">20px</span><span class="p">;</span>
+</span><span class='line'><span class="p">}</span>
+</span><span class='line'>
+</span><span class='line'><span class="nt">h1</span><span class="o">,</span> <span class="nt">h2</span> <span class="p">{</span>
+</span><span class='line'>  <span class="k">font-family</span><span class="o">:</span> <span class="n">Georgia</span><span class="o">,</span> <span class="k">serif</span><span class="p">;</span>
+</span><span class='line'><span class="p">}</span>
+</span><span class='line'>
+</span><span class='line'><span class="nf">#stratocaster</span> <span class="p">{</span>
+</span><span class='line'>  <span class="k">border</span><span class="o">:</span> <span class="m">2px</span> <span class="k">solid</span> <span class="m">#ff0000</span><span class="p">;</span>
+</span><span class='line'>  <span class="k">text-transform</span><span class="o">:</span> <span class="k">lowercase</span><span class="p">;</span>
+</span><span class='line'><span class="p">}</span>
+</span><span class='line'>
+</span><span class='line'><span class="nc">.callout</span> <span class="p">{</span>
+</span><span class='line'>  <span class="k">font-size</span><span class="o">:</span> <span class="m">24px</span><span class="p">;</span>
+</span><span class='line'>  <span class="k">font-style</span><span class="o">:</span> <span class="k">italic</span><span class="p">;</span>
+</span><span class='line'><span class="p">}</span>
+</span></code></pre></td></tr></table></div></figure>
+
+
+<p><img src="http://mkornblum.github.com/de271-fa12/downloads/code/first-css-demo/images/stratocaster.jpg" title="Stratocaster" alt="Stratocaster"></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[HTML Demo 1]]></title>
