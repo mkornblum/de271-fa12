@@ -4,7 +4,7 @@
   <title><![CDATA[Category: homework | DE271 Fall 2012]]></title>
   <link href="http://mkornblum.github.com/de271-fa12/blog/categories/homework/atom.xml" rel="self"/>
   <link href="http://mkornblum.github.com/de271-fa12/"/>
-  <updated>2012-09-18T18:14:24-07:00</updated>
+  <updated>2012-09-18T18:26:46-07:00</updated>
   <id>http://mkornblum.github.com/de271-fa12/</id>
   <author>
     <name><![CDATA[Mark Kornblum]]></name>
@@ -20,8 +20,12 @@
     <id>http://mkornblum.github.com/de271-fa12/blog/2012/09/18/css-worksheet-homework-number-2</id>
     <content type="html"><![CDATA[<p>Your homework for this week is below. Just like last week, download the HTML file, get a CSS file set up, and follow the instructions. This is due next Tuesday, September 25th.</p>
 
+<p><strong>Note</strong>: Yours does not have to look exactly like the example (in fact, I hope you make yours look better, or at least more "you".) The example is just meant to be the general idea of what you're going for.</p>
+
 <!-- more -->
 
+
+<p><img src="/images/examples/css_worksheet_2_example.png" title="Worksheet 2 Example" alt="Worksheet 2 Example"></p>
 
 <p><div class='bogus-wrapper'><notextile><figure class='code'><figcaption><span> (index.html)</span> <a href='/downloads/code/css-worksheet-2/index.html'>download</a></figcaption>
  <div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
