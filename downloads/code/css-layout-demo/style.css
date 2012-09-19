@@ -1,0 +1,44 @@
+body {
+  background-color: rgb(230, 230, 230);
+  color: #222;
+  font-family: Helvetica, Verdana, sans-serif;
+}
+
+#wrapper {
+  width: 700px;
+  margin: 10px auto;
+}
+
+header {
+  border: 1px solid blue;
+  text-align: right;
+}
+
+nav {
+  border: 1px solid green;
+  width: 150px;
+  float: left;
+}
+
+nav ul {
+  list-style-type: none;
+}
+
+#content {
+  border: 1px solid red;
+  margin-left: 150px;
+}
+
+p {
+  margin-left: 20px;
+}
+
+h1, h2 {
+  font-family: Georgia, serif;
+}
+
+.callout {
+  font-size: 24px;
+  font-style: italic;
+}
+
