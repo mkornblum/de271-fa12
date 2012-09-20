@@ -13,5 +13,6 @@ Your homework for this week is below. Just like last week, download the HTML fil
 
 <!-- more -->
 
-{% include_code css-worksheet-2/index.html %}
+{% img /images/examples/css_worksheet_2_example.png "Worksheet 2 Example" "Worksheet 2 Example" %}
 
+{% include_code css-worksheet-2/index.html %}
