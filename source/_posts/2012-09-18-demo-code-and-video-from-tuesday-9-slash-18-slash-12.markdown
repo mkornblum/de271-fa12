@@ -7,7 +7,9 @@ comments: false
 categories: code 
 ---
 
-Example code from class today (first CSS layout demo) is after the jump. Video will be up later this evening.
+<iframe src="http://player.vimeo.com/video/49740202" width="600" height="338" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+
+Example code from class today (first CSS layout demo) is after the jump. 
 
 <!-- more -->
 
