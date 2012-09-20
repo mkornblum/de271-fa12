@@ -4,7 +4,7 @@
   <title><![CDATA[Category: code | DE271 Fall 2012]]></title>
   <link href="http://mkornblum.github.com/de271-fa12/blog/categories/code/atom.xml" rel="self"/>
   <link href="http://mkornblum.github.com/de271-fa12/"/>
-  <updated>2012-09-18T18:26:46-07:00</updated>
+  <updated>2012-09-19T22:24:32-07:00</updated>
   <id>http://mkornblum.github.com/de271-fa12/</id>
   <author>
     <name><![CDATA[Mark Kornblum]]></name>
@@ -18,7 +18,10 @@
     <link href="http://mkornblum.github.com/de271-fa12/blog/2012/09/18/demo-code-and-video-from-tuesday-9-slash-18-slash-12/"/>
     <updated>2012-09-18T18:04:00-07:00</updated>
     <id>http://mkornblum.github.com/de271-fa12/blog/2012/09/18/demo-code-and-video-from-tuesday-9-slash-18-slash-12</id>
-    <content type="html"><![CDATA[<p>Example code from class today (first CSS layout demo) is after the jump. Video will be up later this evening.</p>
+    <content type="html"><![CDATA[<iframe src="http://player.vimeo.com/video/49740202" width="600" height="338" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+
+
+<p>Example code from class today (first CSS layout demo) is after the jump.</p>
 
 <!-- more -->
 
