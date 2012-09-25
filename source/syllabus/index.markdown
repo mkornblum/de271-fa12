@@ -262,7 +262,7 @@ Bring in some kind of food packaging with you to class next week. It should be c
 
 Discussions - remaining questions about CSS, the box model, etc?
 
-Lecture: Lists, Navigation, and Floats - HTML/CSS Demo
+Lecture: Mobile/Responsive Design Demonstration - HTML/CSS Demo
 
 Intro - Food Packaging Project
 
