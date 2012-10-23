@@ -312,20 +312,22 @@ Refine ideas, feature set, iterate UX mockups.
 
 **Thurs 10/18**
 
-Lightning Talks round 2 - present your refined idea to the team. Class discussion/voting on which ideas to further refine.
+Lightning Talks round 2 - present your refined idea to the team. 
 
 ### Week 8
 **Tues 10/23**
 
 _(Midterm Review meetings ongoing during class period)_
 
-In-class: working in groups, refinement of a reduced set of application ideas.
+*DUE:* UX/Wireframe project final. Send me a brief description of the features you've designed (a "story" or sentence per feature is fine). If you're submitting paper wireframes or a PDF, label each sequence of wireframes so I can determine which feature you're showing. Alternately send me a Balsamiq link.
+
+In-class: refine application ideas and build out wireframes
 
 **Thurs 10/25**
 
 _(Midterm Review meetings ongoing during class period)_
 
-Final refinements of reduced set of project ideas.
+Final refinements of application ideas and wireframes.
 
 ### Week 9
 **Tues 10/30**
