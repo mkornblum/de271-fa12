@@ -23,3 +23,6 @@ footer: true
 - [Android Design Guide](http://developer.android.com/design/index.html)
 - [Cross Device Design Patterns](http://www.lukew.com/ff/entry.asp?1594)
 
+### UX Articles
+- [Crafting the UX of REI's Retail Experience](http://uxmag.com/articles/crafting-the-ux-of-reis-retail-experience)
+- [Getting Out of the Deliverables](http://uxdesign.smashingmagazine.com/2011/03/07/lean-ux-getting-out-of-the-deliverables-business/)
