@@ -25,4 +25,8 @@ footer: true
 
 ### UX Articles
 - [Crafting the UX of REI's Retail Experience](http://uxmag.com/articles/crafting-the-ux-of-reis-retail-experience)
-- [Getting Out of the Deliverables](http://uxdesign.smashingmagazine.com/2011/03/07/lean-ux-getting-out-of-the-deliverables-business/)
+- [Getting Out of the Deliverables Business](http://uxdesign.smashingmagazine.com/2011/03/07/lean-ux-getting-out-of-the-deliverables-business/)
+- [UI/UX and Subjectivity](http://gazit.me/2012/10/01/ui-ux-subjectivity.html)
+- [Navigating the new multi-screen world](http://googlemobileads.blogspot.com/2012/08/navigating-new-multi-screen-world.html)
+- [Users love simple and familiar designs](http://googleresearch.blogspot.com/2012/08/users-love-simple-and-familiar-designs.html)
+- [UX/UI: Do you have the wrong job title?](http://thehipperelement.com/articles/do-you-have-the-wrong-job-title/)
