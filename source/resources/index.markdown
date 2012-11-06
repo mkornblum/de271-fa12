@@ -10,6 +10,7 @@ footer: true
 ### CSS Reference
 - [Mozilla Developer Network CSS Reference](https://developer.mozilla.org/en-US/docs/CSS/CSS_Reference)
 - [CSS Tutorial](https://developer.mozilla.org/en-US/docs/CSS/Getting_Started)
+- Not really a reference, but a crazy demo: [Single-element iPhone using CSS3](http://cssdeck.com/labs/creating-single-element-iphone-using-css3) works best in Chrome or Safari, works not as well in Firefox.
 
 ### HTML Reference
 - [List of HTML5 Elements](https://developer.mozilla.org/en-US/docs/HTML/Element)
@@ -30,3 +31,12 @@ footer: true
 - [Navigating the new multi-screen world](http://googlemobileads.blogspot.com/2012/08/navigating-new-multi-screen-world.html)
 - [Users love simple and familiar designs](http://googleresearch.blogspot.com/2012/08/users-love-simple-and-familiar-designs.html)
 - [UX/UI: Do you have the wrong job title?](http://thehipperelement.com/articles/do-you-have-the-wrong-job-title/)
+
+### Additional Resources
+#### Info about the command prompt
+- [Designer's Guide to the OSX Command Prompt](http://wiseheartdesign.com/articles/2010/11/12/the-designers-guide-to-the-osx-command-prompt/)
+- [A Designer's Introduction to the Command Line](http://webdesign.tutsplus.com/tutorials/workflow-tutorials/quick-tip-a-designers-introduction-to-the-command-line/)
+
+#### Version Control
+- [I wonder what this button does?](http://www.alistapart.com/articles/revisioncontrol) Old but good article on why you should use version control.
+- [Intro to Git for Web Designers](http://www.webdesignerdepot.com/2009/03/intro-to-git-for-web-designers/)
