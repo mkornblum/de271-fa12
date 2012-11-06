@@ -4,7 +4,7 @@
   <title><![CDATA[DE271 Fall 2012]]></title>
   <link href="http://mkornblum.github.com/de271-fa12/atom.xml" rel="self"/>
   <link href="http://mkornblum.github.com/de271-fa12/"/>
-  <updated>2012-11-05T22:58:54-08:00</updated>
+  <updated>2012-11-05T23:07:32-08:00</updated>
   <id>http://mkornblum.github.com/de271-fa12/</id>
   <author>
     <name><![CDATA[Mark Kornblum]]></name>
@@ -12,6 +12,18 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Nov 1 Quick Demo - What's Behind the Curtain]]></title>
+    <link href="http://mkornblum.github.com/de271-fa12/blog/2012/11/05/nov-1-quick-demo-whats-behind-the-curtain/"/>
+    <updated>2012-11-05T23:06:00-08:00</updated>
+    <id>http://mkornblum.github.com/de271-fa12/blog/2012/11/05/nov-1-quick-demo-whats-behind-the-curtain</id>
+    <content type="html"><![CDATA[<iframe src="http://player.vimeo.com/video/52910097" width="600" height="450" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+
+
+<p>Quick demo from Nov 1 covering domain name registration, web hosting, Wordpress, and more.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Syllabus Updated]]></title>
