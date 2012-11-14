@@ -4,7 +4,7 @@
   <title><![CDATA[DE271 Fall 2012]]></title>
   <link href="http://mkornblum.github.com/de271-fa12/atom.xml" rel="self"/>
   <link href="http://mkornblum.github.com/de271-fa12/"/>
-  <updated>2012-11-05T23:07:32-08:00</updated>
+  <updated>2012-11-13T21:57:06-08:00</updated>
   <id>http://mkornblum.github.com/de271-fa12/</id>
   <author>
     <name><![CDATA[Mark Kornblum]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Final App Setup Demo]]></title>
+    <link href="http://mkornblum.github.com/de271-fa12/blog/2012/11/13/final-app-setup-demo/"/>
+    <updated>2012-11-13T21:53:00-08:00</updated>
+    <id>http://mkornblum.github.com/de271-fa12/blog/2012/11/13/final-app-setup-demo</id>
+    <content type="html"><![CDATA[<p>All of the example code from today&#8217;s demo is available <a href="https://github.com/mkornblum/de271-app-example">on Github</a>. You can see the commits along with which files were changed on each one by clicking &#8220;commits&#8221; from the homepage.</p>
+
+<p>Video will be here soon.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Nov 1 Quick Demo - What's Behind the Curtain]]></title>
